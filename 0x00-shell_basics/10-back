@@ -1,3 +1,2 @@
 #!/bin/bash
-previous_dir=$(dirname"$PWD")
-cd"$previous_dir"
+cd ..
