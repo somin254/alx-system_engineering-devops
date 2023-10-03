@@ -1,0 +1,3 @@
+#!/bin/bash
+user="somin 254"
+print("hello",user)
