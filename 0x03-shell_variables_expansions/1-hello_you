@@ -1,2 +1,3 @@
 #!/bin/bash
-user="renson" ,print("hello," user)
+user=$(root)
+echo "hello $user"
