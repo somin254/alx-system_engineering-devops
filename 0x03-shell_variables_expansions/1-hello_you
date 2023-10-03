@@ -1,2 +1,2 @@
 #!/bin/bash
-user="hello fadc4cba2d07"
+user="renson" ,print("hello," user)
