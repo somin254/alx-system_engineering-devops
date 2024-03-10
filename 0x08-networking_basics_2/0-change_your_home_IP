@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# This script configures localhost and facebook.com IP addresses.
 
 # Configure localhost to resolve to 127.0.0.2
 echo "127.0.0.2 localhost" | sudo tee -a /etc/hosts
